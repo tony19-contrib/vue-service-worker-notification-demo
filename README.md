@@ -1,24 +1,3 @@
-# vue2-service-worker
+> Demo for [`service-worker-loader`](https://www.npmjs.com/package/service-worker-loader)
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://stackoverflow.com/q/67883261/6277151
